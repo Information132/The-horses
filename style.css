@@ -1,0 +1,70 @@
+/* Fil rouge : selecteur, dimensions, couleurs */
+/* Texte */
+/* Backgroung */ 
+/* Boxes */
+/* Positioning */
+/* Flex */
+/* Grid */
+/* Pseudo class */
+/* Débug */
+/* Responsive */
+
+body {
+    background: url(./assets/bg.jpg) no-repeat fixed center/cover;
+    height: 100vh;
+}
+
+
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 2.5rem;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    font-size: 2.50rem;
+    letter-spacing: 4px;
+    color: white;
+}
+
+main {
+    background-color: whitesmoke;
+    width: 50%;
+}
+
+h4 {
+    color: white;
+    font-size: 3rem;
+    letter-spacing: 4px;
+}
+
+div {
+    font-size: 20px;
+}
+
+h5 {
+    background-color: whitesmoke;
+    width: 40%;
+    font-size: 3rem;
+    letter-spacing: 0px;
+    height: 1930px;
+}
+
+p {
+    font-size: 1rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
